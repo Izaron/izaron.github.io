@@ -52,7 +52,7 @@ you are to use ready-made libraries, for example [lewissbaker/cppcoro](https://g
 [YACLib](https://github.com/YACLib/YACLib).
 
 Coroutines are not a bad thing, but the approach to implementation in C++ (with the encouragement of writing everything from scratch)
-surprised me. The overall impression (with the experience of carotene in Lua/Python)... Just look at some guy's comment, it says better:
+surprised me. But the overall impression (with the experience of coroutines in Lua/Python)... Just look at some guy's comment, it says better:
 
 > Damn, I used coroutines back in 1987, on ancient machines with 32 KB of memory.
 I used it easily and naturally.
