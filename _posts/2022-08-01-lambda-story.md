@@ -1,5 +1,5 @@
 ---
-title: 📚 Book review&#58; "C++ Lambda Story"
+title: 📚 Book review&#58; "C++ Lambda Story" (2021)
 date: 2022-08-01 16:39:00
 tags: [books]
 ---

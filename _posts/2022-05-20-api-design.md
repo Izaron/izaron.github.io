@@ -1,5 +1,5 @@
 ---
-title: 📚 Book review&#58; "API Design for C++"
+title: 📚 Book review&#58; "API Design for C++" (2011)
 date: 2022-05-20 11:00:00
 tags: [books]
 ---
