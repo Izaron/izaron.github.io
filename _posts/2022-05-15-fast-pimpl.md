@@ -2,6 +2,7 @@
 title: Fast Pimpl
 date: 2022-05-15 17:28:00
 tags: [madskillz]
+categories: [Articles]
 ---
 
 There is the [Pimpl](https://en.cppreference.com/w/cpp/language/pimpl) pattern that is used to remove implementation details of a class by placing them in a separate

@@ -2,6 +2,7 @@
 title: Coroutines for dummies (like me)
 date: 2022-08-22 11:01:00
 tags: [story]
+categories: [Articles]
 ---
 
 When I tried to understand how the coroutines (added to C++20) work, I discovered a very small number of understandable explanations on the Internet.

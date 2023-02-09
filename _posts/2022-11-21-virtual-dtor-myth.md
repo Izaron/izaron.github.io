@@ -2,6 +2,7 @@
 title: A myth about virtual destructors
 date: 2022-11-21 20:31:00
 tags: [creepy]
+categories: [Articles]
 ---
 
 There is a question that occurs often at interviews and in real life: "Why do we need the virtual destructor?"

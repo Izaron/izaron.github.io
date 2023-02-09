@@ -2,6 +2,7 @@
 title: Is it possible to call main() recursively?
 date: 2022-06-13 17:37:00
 tags: [creepy]
+categories: [Articles]
 ---
 
 (Some useless info, I guess)

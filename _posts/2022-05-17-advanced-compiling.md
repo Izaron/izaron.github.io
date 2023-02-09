@@ -2,6 +2,7 @@
 title: 📚 Book review&#58; "Advanced C and C++ compiling" (2014)
 date: 2022-05-17 20:24:00
 tags: [books]
+categories: [Articles]
 ---
 
 ![](/assets/img/posts/2022-05-17/cover.jpg){: .w-25 .left}

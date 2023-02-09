@@ -2,6 +2,7 @@
 title: The most vexing C++ rule for modular projects (and how to deal with it)
 date: 2023-01-06 11:54:00
 tags: [creepy, compiler]
+categories: [Articles]
 ---
 
 While developing my pet project,

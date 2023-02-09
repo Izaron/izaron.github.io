@@ -2,6 +2,7 @@
 title: Two-faced "inline" for function
 date: 2022-06-01 11:58:00
 tags: [creepy]
+categories: [Articles]
 ---
 
 So it happened that C++ has the `inline` keyword, which being applied to functions gives them two orthogonal perks.

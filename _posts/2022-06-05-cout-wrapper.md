@@ -2,6 +2,7 @@
 title: Wrapper for output streams 🌊
 date: 2022-06-05 19:52:00
 tags: [madskillz]
+categories: [Articles]
 ---
 
 Every big tech company (like FAANG) has its own implementation of `std::string` and/or

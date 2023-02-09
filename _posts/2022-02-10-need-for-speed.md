@@ -3,6 +3,7 @@ title: Need for speed!
 date: 2022-02-10 20:10:00
 tags: [video]
 math: true
+categories: [Articles]
 ---
 
 When comparing C++ with other popular languages (Python, Java, C#, etc.), it comes clear that adequately written

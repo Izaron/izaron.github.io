@@ -2,6 +2,7 @@
 title: How does the compiler measure compilation speed? 🕰
 date: 2022-08-20 10:25:00
 tags: [compiler]
+categories: [Articles]
 ---
 
 In C++, it's very easy to make that a project takes very long time to build.

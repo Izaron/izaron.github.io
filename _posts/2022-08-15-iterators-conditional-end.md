@@ -2,6 +2,7 @@
 title: Iterators with conditional end 🏁
 date: 2022-08-15 11:01:00
 tags: [madskillz]
+categories: [Articles]
 ---
 
 Iterators are one of the core concepts of C++.

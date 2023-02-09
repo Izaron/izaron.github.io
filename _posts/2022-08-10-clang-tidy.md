@@ -2,6 +2,7 @@
 title: How clang-tidy works 🧹🧹🧹
 date: 2022-08-10 10:32:00
 tags: [compiler]
+categories: [Articles]
 ---
 
 [clang-tidy](https://releases.llvm.org/11.0.0/tools/clang/tools/extra/docs/clang-tidy/index.html) is used to automatically fix common mistakes in C++ source code

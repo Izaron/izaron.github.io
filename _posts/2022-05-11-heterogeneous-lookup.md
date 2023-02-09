@@ -2,6 +2,7 @@
 title: Heterogeneous Lookup
 date: 2022-05-11 14:26:00
 tags: [creepy]
+categories: [Articles]
 ---
 
 What happens when you try to call `.find()`/`.contains()`/etc on an associative container

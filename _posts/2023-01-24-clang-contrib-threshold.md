@@ -2,6 +2,7 @@
 title: Entry threshold for contributing to compilers
 date: 2023-01-24 19:15:00
 tags: [story, compiler]
+categories: [Articles]
 ---
 
 Once in a C++ chat, a guy asked whether it make sense to investigate and send bugfixes to existing compilers?

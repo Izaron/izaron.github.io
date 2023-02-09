@@ -3,6 +3,7 @@ title: Simulating physics in C++ using numerical analysis 🌊
 date: 2022-08-12 11:02:00
 tags: [story]
 math: true
+categories: [Articles]
 ---
 
 Programs for all kinds of simulations (water, fire, smoke, glass, heat exchange, etc.)

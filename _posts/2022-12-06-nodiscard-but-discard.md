@@ -2,6 +2,7 @@
 title: How to discard a [[nodiscard]]
 date: 2022-12-06 10:17:00
 tags: [creepy]
+categories: [Articles]
 ---
 
 The [\[\[nodiscard\]\]](https://en.cppreference.com/w/cpp/language/attributes/nodiscard) attribute was added in C++17.

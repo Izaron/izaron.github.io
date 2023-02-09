@@ -3,6 +3,7 @@ title: Improving C++ compilation speed
 date: 2022-10-28 10:01:00
 tags: [story]
 math: true
+categories: [Articles]
 ---
 
 The very recurring topic of "speeding up compilation" is a special fun activity in which many C++

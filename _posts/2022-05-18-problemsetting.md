@@ -2,6 +2,7 @@
 title: How to prepare a programming contest
 date: 2022-05-18 19:08:00
 tags: [story]
+categories: [Articles]
 ---
 
 ![](/assets/img/posts/2022-05-18/acm.jpg)

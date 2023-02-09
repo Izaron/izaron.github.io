@@ -2,6 +2,7 @@
 title: Contributing to Clang - impressions and thoughts
 date: 2022-02-18 13:26:00
 tags: [compiler]
+categories: [Articles]
 ---
 
 Last week I tried to fix some bugs in Clang, just to see how it would work out. I had found

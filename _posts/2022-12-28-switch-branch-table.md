@@ -3,6 +3,7 @@ title: Branch tables for switch operators
 date: 2022-12-28 11:02:00
 tags: [compiler]
 math: true
+categories: [Articles]
 ---
 
 In C++, the `switch` operator is used to transfer the control flow to different locations depending on the value of the given variable.

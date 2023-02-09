@@ -2,6 +2,7 @@
 title: clang-format&#58; an architectural failure? 🩼
 date: 2022-10-10 12:47:00
 tags: [compiler]
+categories: [Articles]
 ---
 
 I wrote something about [clang-tidy in this blog](/posts/clang-tidy) previously.

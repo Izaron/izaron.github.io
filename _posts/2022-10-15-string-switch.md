@@ -2,6 +2,7 @@
 title: Simple "switch" for strings 🎲
 date: 2022-10-15 17:07:00
 tags: [madskillz]
+categories: [Articles]
 ---
 
 C++ can't have strings (or string literals) in [switch-expressions](https://en.cppreference.com/w/cpp/language/switch) as `case` values.
