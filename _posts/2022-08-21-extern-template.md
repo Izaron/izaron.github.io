@@ -2,7 +2,7 @@
 title: Don't compile template code on every build ⌨️
 date: 2022-08-21 18:39:00
 tags: [compiler, advice]
-categories: [Articles]
+categories: [Article]
 ---
 
 I have a "childhood trauma", I don't really like templates -

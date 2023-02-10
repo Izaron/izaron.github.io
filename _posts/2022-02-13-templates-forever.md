@@ -2,7 +2,7 @@
 title: Use templates in any unclear situation
 date: 2022-02-13 15:52:00
 tags: [advice]
-categories: [Articles]
+categories: [Article]
 ---
 
 There are two problems that often appear in real world and can be solved with the same tool.

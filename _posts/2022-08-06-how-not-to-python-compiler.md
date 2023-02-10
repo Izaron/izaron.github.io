@@ -2,7 +2,7 @@
 title: (Python) How not to write a compiler 🌾🚜🐄
 date: 2022-08-06 17:18:00
 tags: [compiler]
-categories: [Articles]
+categories: [Article]
 ---
 
 There is a brand new Python compiler, which is being discussed on Reddit.

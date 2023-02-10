@@ -2,7 +2,7 @@
 title: Reflection in C++
 date: 2022-02-18 12:50:00
 tags: [video]
-categories: [Articles]
+categories: [Article]
 ---
 
 One of the problems in C++ is lack of *reflection*. Reflection is the ability of the program to "understand"

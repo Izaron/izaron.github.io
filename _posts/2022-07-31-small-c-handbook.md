@@ -2,7 +2,7 @@
 title: 📚 Book review&#58; "The Small C handbook" (1984)
 date: 2022-07-31 16:39:00
 tags: [retro, books, compiler]
-categories: [Articles]
+categories: [Article]
 ---
 
 ![](/assets/img/posts/2022-07-31/cover-en.jpg){: .w-25 .left}

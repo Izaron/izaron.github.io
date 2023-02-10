@@ -2,7 +2,7 @@
 title: Story of Alexander Stepanov, the author of STL 🔆
 date: 2022-06-19 18:25:00
 tags: [story, retro]
-categories: [Articles]
+categories: [Article]
 ---
 
 An example: for modern children, smartphones have always existed, push-button phones are something ancient,

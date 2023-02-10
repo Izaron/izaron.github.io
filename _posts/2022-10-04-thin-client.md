@@ -2,7 +2,7 @@
 title: Thin client for C++ developers (with screenshots!)
 date: 2022-10-04 21:26:00
 tags: [story]
-categories: [Articles]
+categories: [Article]
 ---
 
 I haven't posted anything in the blog for a while, but now I have moved, got a WiFi, so I decided to write a post related to thin clients 😎

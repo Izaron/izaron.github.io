@@ -1,7 +1,7 @@
 ---
 title: Creating a platformer game in 30 minutes
 date: 2013-10-28 15:28:00
-categories: [Longreads]
+categories: [Longread]
 ---
 
 *This post is the translation of [my blog bost from habr.com](https://habr.com/post/199064/).*

@@ -2,7 +2,7 @@
 title: Redundant "const" harms performance ⏱
 date: 2022-05-23 11:02:00
 tags: [advice]
-categories: [Articles]
+categories: [Article]
 ---
 
 The correct using of `const` is a big topic in C++. The coolest explanation of this topic

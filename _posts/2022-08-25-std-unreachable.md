@@ -2,7 +2,7 @@
 title: std::unreachable - safe shooting yourself in the foot 🔫
 date: 2022-08-25 11:01:00
 tags: [advice]
-categories: [Articles]
+categories: [Article]
 ---
 
 They standardized [std::unreachable](https://en.cppreference.com/w/cpp/utility/unreachable)

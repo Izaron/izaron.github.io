@@ -2,7 +2,7 @@
 title: Dormitory pointers
 date: 2022-02-10 14:43:00
 tags: [madskillz]
-categories: [Articles]
+categories: [Article]
 ---
 
 Let's say we want to have a function that returns an object with some boolean flags in addition.

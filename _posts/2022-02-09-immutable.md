@@ -2,7 +2,7 @@
 title: Immutable classes for API data (a practical advice)
 date: 2022-02-09 17:26:00
 tags: [advice]
-categories: [Articles]
+categories: [Article]
 ---
 
 Let's say you're programming an online advertisement system for a fastfood restaurants corporation 🍟🍔🍕🥤.

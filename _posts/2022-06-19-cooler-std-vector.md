@@ -2,7 +2,7 @@
 title: std::vector, but 20% cooler
 date: 2022-06-19 16:32:00
 tags: [advice]
-categories: [Articles]
+categories: [Article]
 ---
 
 It is often required to work on a group of objects, to somehow sort them, to find the object by a key, and so on - depending

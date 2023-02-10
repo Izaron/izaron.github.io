@@ -2,7 +2,7 @@
 title: 📚 Book review&#58; "Modern C++ Programming with Test-Driven Development" (2013)
 date: 2022-11-28 12:14:00
 tags: [testing, books]
-categories: [Articles]
+categories: [Article]
 ---
 
 ![](/assets/img/posts/2022-11-28/cover.jpg){: .w-25 .left}

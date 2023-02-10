@@ -2,7 +2,7 @@
 title: Practical linkage types 🔗
 date: 2022-06-05 17:41:00
 tags: [compiler]
-categories: [Articles]
+categories: [Article]
 ---
 
 The standard way to define a functions is as follows: one writes the *declaration* in an `.h`-file (so that

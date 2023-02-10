@@ -2,7 +2,7 @@
 title: The simplest std::function explanation in 15 minutes
 date: 2023-01-01 19:15:00
 tags: [story]
-categories: [Articles]
+categories: [Article]
 ---
 
 This post was written under influence of a cool video from Jason Turner *"A simplified implementation of std::function"*

@@ -2,7 +2,7 @@
 title: Your own compiler - do it yourself ⚙️🛠
 date: 2022-06-12 22:01:00
 tags: [compiler, story]
-categories: [Articles]
+categories: [Article]
 ---
 
 In my opinion, there is the best tutorial to make your own programming language compiler (in C++):

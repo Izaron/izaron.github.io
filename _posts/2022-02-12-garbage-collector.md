@@ -2,7 +2,7 @@
 title: Garbage Collector
 date: 2022-02-12 13:45:00
 tags: [madskillz]
-categories: [Articles]
+categories: [Article]
 ---
 
 There are C++ projects with garbage collection.

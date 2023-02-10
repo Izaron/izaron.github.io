@@ -2,7 +2,7 @@
 title: Reference Lifetime Extension
 date: 2022-02-18 22:17:00
 tags: [creepy]
-categories: [Articles]
+categories: [Article]
 ---
 
 Today's Creepy Rule of the Standard: if you're initializing a const ref (`const T&`) with a "temporary object"

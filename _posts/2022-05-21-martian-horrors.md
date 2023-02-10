@@ -2,7 +2,7 @@
 title: Martian Horrors 👽
 date: 2022-05-21 21:44:00
 tags: [video]
-categories: [Articles]
+categories: [Article]
 ---
 
 As a programmer, I often deal with "air castles": I write code that works with very abstract concepts.

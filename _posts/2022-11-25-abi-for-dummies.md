@@ -2,7 +2,7 @@
 title: ABI&#58; the three scary letters 🎃
 date: 2022-11-25 19:48:00
 tags: [creepy]
-categories: [Articles]
+categories: [Article]
 ---
 
 One of the topics that is hardly noticeable in the world outside C++, but which causes a regular shitstorm among senior C++ contributors is the question of **breaking the ABI**.

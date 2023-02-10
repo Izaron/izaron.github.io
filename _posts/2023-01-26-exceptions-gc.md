@@ -2,7 +2,7 @@
 title: Exceptions in C++ and Garbage Collection - what do they have in common? ♻️
 date: 2023-01-26 11:59:00
 tags: [story]
-categories: [Articles]
+categories: [Article]
 ---
 
 I do not mean technical similarity,
