@@ -1,6 +1,10 @@
 #  The contact options.
 
 -
+  type: telegram
+  icon: 'fab fa-telegram'   # icons powered by <https://fontawesome.com/>
+  url:  'https://t.me/cloudy_district'                  # Fill with your Linkedin homepage
+-
   type: linkedin
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/izaron/'                  # Fill with your Linkedin homepage
